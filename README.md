@@ -51,7 +51,7 @@
 </p>
 
 ### ⚡ GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaidilFitra&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=HaidilFitra&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
