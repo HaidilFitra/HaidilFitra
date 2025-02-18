@@ -43,7 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### 📊 GitHub Analytics
-<p align="center">
+<p>
 <a href="https://github.com/HaidilFitra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaidilFitra&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaidilFitra&layout=compact&theme=radical"/>
