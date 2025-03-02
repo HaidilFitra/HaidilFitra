@@ -7,10 +7,10 @@
 
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on several projects:
-  - Backend Developer at SUMU APP
-  - Backend Developer at Wesclic Studio
-  - Backend Developer at MIROTAKLIK
-  - Full Stack Developer at SIP Wonosobo
+  - Backend Developer at [SUMU APP](https://sumuapp.com)
+  - Backend Developer at [Wesclic Studio](https://wesclicstudio.com)
+  - Backend Developer at [MIROTAKLIK](https://mirotaklik.com)
+  - Full Stack Developer at [SIP Wonosobo](https://sipwonosobo.com)
   
 - 🌱 I'm currently learning:
   - Pandas (Python)
